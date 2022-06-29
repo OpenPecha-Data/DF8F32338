@@ -7,6 +7,7 @@ last_modified: '2022-06-27T10:14:16.428385+00:00'
 parser: null
 source_metadata:
   bdrc-instance-id: W23703
+  creation_method: proofreading, annotation-transfer
   soucre: 
       base_file: 
         id: D3871/derge.txt  #<rkts_text_id>/<edition>
