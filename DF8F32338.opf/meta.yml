@@ -6,8 +6,14 @@ imported: '2022-06-27T04:23:53+00:00'
 last_modified: '2022-06-27T10:14:16.428385+00:00'
 parser: null
 source_metadata:
-  id: bdr:W23703
-  description: Derge chojuk Diplomatic
+  bdrc-instance-id: W23703
+  soucre: 
+      base_file: 
+        id: D3871/derge.txt  #<rkts_text_id>/<edition>
+        initial_creation_type: input
+      line_page_info: 
+        id: P000800/1421  #<pecha_id>/<bdrc_image_group_id>
+        initial_creation_type: OCR
   base:
     4A8C:
       image_group_id: '1421'
