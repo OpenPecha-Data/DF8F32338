@@ -13,7 +13,7 @@ source_metadata:
         id: D3871/derge.txt  #<rkts_text_id>/<edition>
         initial_creation_type: input
       line_page_info: 
-        id: P000800/1421  #<pecha_id>/<bdrc_image_group_id>
+        id: P000800/I1421  #<pecha_id>/<bdrc_image_group_id>
         initial_creation_type: OCR
   base:
     4A8C:
